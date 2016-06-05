@@ -54,7 +54,7 @@ class ResourceRole extends AbstractRole
      *
      * @return ResourceContract
      */
-    public function getResource()
+    public function getResource(): ResourceContract
     {
         return $this->resource;
     }
