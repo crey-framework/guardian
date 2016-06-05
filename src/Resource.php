@@ -1,4 +1,4 @@
-<?php
+<?php declare(strict_types=1);
 /**
  * This file is part of CREY Framework.
  * (c) 2016 Matthias Kaschubowski, All rights reserved.
