@@ -9,7 +9,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Crey\\Conjurer\\": "./src/"
+      "Crey\\Guardian\\": "./src/"
     }
   },
   "require": {
