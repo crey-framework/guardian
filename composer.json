@@ -1,0 +1,18 @@
+{
+  "name": "crey/guardian",
+  "description": "CREY Framework Resource aligned Access Control List",
+  "authors": [
+    {
+      "name": "Matthias Kaschubowski",
+      "role": "inventor"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Crey\\Conjurer\\": "./src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
